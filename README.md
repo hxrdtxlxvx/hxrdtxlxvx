@@ -1,2 +1,2 @@
 ## Hi
-## HUFS Thai / Artificial Intelligence Convergence(Software&AI) 23
+- HUFS Thai / Artificial Intelligence Convergence(Software&AI) 23
